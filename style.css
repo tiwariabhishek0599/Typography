@@ -1,0 +1,23 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    font-family: 'Cambria', Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-bottom: 3px solid rgba(0, 0, 0,0.7);
+}
+.heading{
+    text-align: center;
+}
+ p{
+    color: rgba(0,0,0,0.6);
+    display: block;
+    text-align: left;
+    margin-left: 35%;
+    margin-right: 35%;
+}
+iframe{
+    border-width: 2px;
+    border-style: inset;
+}
+
